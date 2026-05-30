@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a839cc4e2d73174f",
+    "type": "split",
+    "children": [
+      {
+        "id": "46adb07dc750ac29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f52b375dee0715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Розділ 2. Поняття/2.5. Логічні операції з поняттями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5. Логічні операції з поняттями"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4378bda71504aa86",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e766abffc3e15f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea0893477dcf789",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "897a86f0e1201ca1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "f6684470b7f4ff51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3c3fea1b65e3bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c349583e3ecc8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946c622351e102b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання"
+            }
+          },
+          {
+            "id": "9f31716cf48ed41a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання"
+            }
+          },
+          {
+            "id": "7edb2d90f1a66b81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "fbdbcc74e82bdf33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "82c128ea9b302046",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
+    }
+  },
+  "active": "f5f52b375dee0715",
+  "lastOpenFiles": [
+    "Зміст.md",
+    "01_Титульні сторінки та Зміст/Титул, зміст.md",
+    "02_Передмова/Передмова.md"
+  ]
+}
